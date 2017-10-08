@@ -1,0 +1,2 @@
+# PersianGloVe
+Persian GloVe Embedding
